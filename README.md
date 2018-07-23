@@ -3,5 +3,5 @@ A Go project to demonstrate the use of kafka
 
 
 
-## Port
+## Credits
 This is a port to https://github.com/murnax/node-kafka 
